@@ -12,7 +12,7 @@ This project focuses on the generative reinterpretation of fundamental mathemati
 
 ## Research Track Record
 The long-term development of these theories is backed by an extensive body of work. Over 80 research papers documenting this trajectory have been published and archived for public access.
-* **Full Archive on Zenodo**:[Access the Papers Portfolio]()
+* **Full Archive on Zenodo**:[Access the Papers Portfolio](https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest)
 * Digital Object Identifiers (DOIs): All major theoretical breakthroughs are minted with permanent DOIs via Zenodo to ensure open-access verification and rigorous tracking.
 
 ## Research Roadmap and Funding Goals
