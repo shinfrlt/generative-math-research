@@ -10,6 +10,17 @@ This project focuses on the generative reinterpretation of fundamental mathemati
 * Next-Gen AI Models and Architectures: Developing structural AI frameworks informed by algebraic and category-theoretic properties.
 *  Projective Interpretation of Language: Constructing a formal, mathematical linguistic theory based on mapping and projection principles.
 
+### Research Architecture: Local-to-Global Gluing
+This independent research is structured around a **"Local-to-Global Gluing"** methodology. Rather than monolithic, slow-moving treatises, the work is published as a series of precise, interconnected short notes. 
+
+* **The Published Foundation (80 Notes):** 
+  Already published with Zenodo DOIs, these notes handle concrete structural mechanisms across algebra, geometry, and computation:
+  * *Algebra & Category Theory:* Category theory, groupoids, posets, D-modules, braids, quaternions, $SU(2)$, non-commutativity.
+  * *Geometry & Topology:* Sphere $S^4$, Thurston's 8 geometries, lemniscates, pushouts, monodromy, and the *Hyperplane Language Theory*.
+  * *Matrix & Structural Decomposition:* RREF, QR decomposition, Householder transformations, Jordan canonical forms, sparsity, null spaces.
+  * *Analysis & Duality:* Zeta functions, $L$-functions, and dualities.
+  * *Symmetry & Dynamics:* Mirror symmetry, chirality, spdf orbital hierarchies, Bayesian updates.
+
 ## Research Track Record
 The long-term development of these theories is backed by an extensive body of work. Over 80 research papers documenting this trajectory have been published and archived for public access.
 * **Full Archive on Zenodo**:[Access the Papers Portfolio](https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest)
