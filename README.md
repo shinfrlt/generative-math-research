@@ -4,11 +4,6 @@ Research repository for generative mathematics, category theory, and AI applicat
 ## Project Overview
 This project focuses on the generative reinterpretation of fundamental mathematical concepts and their structural translation into advanced conputing paradigms. By bridges across pure mathematics, computer science, and cognitive linguistics, this research aims to construct new theoretical foundations for the generation of techology.
 
-### Key Research Areas
-* Generative Reinterpretation of the Milnor Number: Recontextualizing singularity invariants within generative and algorithmic frameworks.
-* Applied Category Theory and Groupoids: Utilizing high-dimensional algebra and groupoids to model complex computational networks and deta structures.
-* Next-Gen AI Models and Architectures: Developing structural AI frameworks informed by algebraic and category-theoretic properties.
-*  Projective Interpretation of Language: Constructing a formal, mathematical linguistic theory based on mapping and projection principles.
 
 ### Research Architecture: Local-to-Global Gluing
 This independent research is structured around a **"Local-to-Global Gluing"** methodology. Rather than monolithic, slow-moving treatises, the work is published as a series of precise, interconnected short notes. 
