@@ -22,4 +22,4 @@ As an independent researcher, maintaining financial and mental stability is the 
 If you believe that fundamental mathematics is adritical **Public Good** for the future of decentralized thechology and AI, consider supporting this journey.
 * **Giveth Project Page**: [Support via Giveth]()
 
-*This repository is automatically linked with Zenodo. Every major release is immutably archived with a permanent DOI.
+This repository is automatically linked with Zenodo. Every major release is immutably archived with a permanent DOI.
